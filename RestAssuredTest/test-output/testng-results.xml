@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4359" started-at="2018-06-25T10:19:25Z" finished-at="2018-06-25T10:19:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4359" started-at="2018-06-25T10:19:25Z" finished-at="2018-06-25T10:19:30Z">
+      <class name="GetRequest.Newtest">
+        <test-method status="PASS" signature="CommentTest199()[pri:0, instance:GetRequest.Newtest@4dfa3a9d]" name="CommentTest199" duration-ms="2703" started-at="2018-06-25T12:19:25Z" finished-at="2018-06-25T12:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommentTest199 -->
+        <test-method status="PASS" signature="GetRequetToURL()[pri:0, instance:GetRequest.Newtest@4dfa3a9d]" name="GetRequetToURL" duration-ms="270" started-at="2018-06-25T12:19:28Z" finished-at="2018-06-25T12:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequetToURL -->
+        <test-method status="PASS" signature="Postid40contains5comments()[pri:0, instance:GetRequest.Newtest@4dfa3a9d]" name="Postid40contains5comments" duration-ms="1336" started-at="2018-06-25T12:19:28Z" finished-at="2018-06-25T12:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postid40contains5comments -->
+      </class> <!-- GetRequest.Newtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
